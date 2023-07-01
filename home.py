@@ -23,6 +23,3 @@ email = driver.find_element_by_id('email')
 email.send_keys('jackie@jackie.com')
 submit = driver.find_element_by_id('submit')
 submit.click()
-
-
-D:/Users/GG/PycharmProjects/pythonProject/book_store_testing
